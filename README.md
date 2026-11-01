@@ -6,6 +6,7 @@ Aim is to Design our own Sigma-Delta Analog-to-Digital Converter.
 The contributors of this Project are:
  - Aditya Dabas
  - Julian Stolle
+   
  who are Students at the **Hochschule Bremen** studying **Electronics Engineering (M.Sc.)**.
 
  Mentor: *Prof. Dr. Mirco Meiners*
