@@ -11,4 +11,4 @@ The contributors of this Project are:
 
  Mentor: *Prof. Dr. Mirco Meiners*
 
-This repo will contain the whole project including the implementation as well as the final report.
+The work on this project is being done and this repo is will contain the whole project including the implementation as well as the final report.
