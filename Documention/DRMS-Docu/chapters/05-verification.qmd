@@ -1,0 +1,22 @@
+# Verification and Validation
+
+## Verification strategy
+
+[TODO: Explain how correctness is checked, including the applicable test
+levels and tools.]
+
+## Running checks
+
+```text
+[TODO: Add commands for running the relevant tests and quality checks.]
+```
+
+## Test cases
+
+| Case | Expected result | Status |
+|---|---|---|
+| [TODO] | [TODO] | [TODO] |
+
+## Known limitations
+
+- [TODO: Document known gaps, assumptions, or limitations.]

@@ -1,0 +1,24 @@
+# User Guide
+
+## Typical workflow
+
+1. [TODO: Describe the first user action.]
+2. [TODO: Describe the next action and expected result.]
+3. [TODO: Explain how to complete or verify the workflow.]
+
+## Features
+
+### [TODO: Feature name]
+
+[TODO: Explain how to use the feature, including inputs, outputs, and relevant
+limitations.]
+
+## Examples
+
+[TODO: Add a small, reproducible example using representative inputs.]
+
+## Common questions
+
+### [TODO: Question]
+
+[TODO: Answer.]

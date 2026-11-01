@@ -1,0 +1,26 @@
+# System Architecture
+
+## Context
+
+[TODO: Describe the system boundary and its external users or dependencies.]
+
+## Components
+
+| Component | Responsibility | Main technology |
+|---|---|---|
+| [TODO] | [TODO] | [TODO] |
+
+## Data and control flow
+
+[TODO: Describe the important flows. Add a diagram if it makes the system
+easier to understand.]
+
+## Interfaces and dependencies
+
+[TODO: Document external services, APIs, hardware, file formats, or other
+integration points.]
+
+## Design decisions
+
+[TODO: Record important decisions and their rationale. Link to decision
+records where applicable.]

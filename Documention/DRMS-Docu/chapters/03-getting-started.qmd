@@ -1,0 +1,27 @@
+# Getting Started
+
+## Prerequisites
+
+- [TODO: List required tools and supported versions.]
+
+## Installation
+
+1. [TODO: Provide the repository or package setup steps.]
+2. [TODO: Describe dependency installation and configuration.]
+
+## Configuration
+
+[TODO: Explain required configuration values and where they belong. Do not
+include secrets in this documentation.]
+
+## Run the project
+
+```text
+[TODO: Add the command or procedure used to start the project.]
+```
+
+## Troubleshooting
+
+| Symptom | Likely cause | Resolution |
+|---|---|---|
+| [TODO] | [TODO] | [TODO] |

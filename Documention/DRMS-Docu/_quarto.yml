@@ -1,0 +1,22 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "DRMS Documentation"
+  author: "Project Team"
+  chapters:
+    - index.qmd
+    - chapters/01-project-overview.qmd
+    - chapters/02-system-architecture.qmd
+    - chapters/03-getting-started.qmd
+    - chapters/04-user-guide.qmd
+    - chapters/05-verification.qmd
+    - chapters/06-development.qmd
+    - references.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    number-sections: true

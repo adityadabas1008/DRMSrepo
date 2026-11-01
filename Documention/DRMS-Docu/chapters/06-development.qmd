@@ -1,0 +1,23 @@
+# Development Guide
+
+## Repository layout
+
+| Path | Purpose |
+|---|---|
+| [TODO] | [TODO] |
+
+## Development workflow
+
+1. [TODO: Explain how to prepare a development environment.]
+2. [TODO: Describe the branch, change, and review workflow.]
+3. [TODO: List checks expected before submitting a change.]
+
+## Coding conventions
+
+[TODO: Link to or summarize the project's style and naming conventions.]
+
+## Adding or updating documentation
+
+Edit the relevant `.qmd` chapter file. To add a chapter, create a new `.qmd`
+file under `chapters/` and add its path to the `book.chapters` list in
+`_quarto.yml`.

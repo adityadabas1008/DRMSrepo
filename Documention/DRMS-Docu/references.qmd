@@ -1,0 +1,4 @@
+# References
+
+[TODO: List standards, papers, external documentation, and other sources
+referenced by this book.]

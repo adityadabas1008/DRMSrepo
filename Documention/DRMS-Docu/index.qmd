@@ -1,0 +1,22 @@
+---
+title: "Welcome"
+---
+
+# Welcome
+
+This book is the central documentation for **DRMS**. It is organized into
+separate chapter files and assembled into one book by `_quarto.yml`.
+Replace the prompts in each chapter with project-specific information.
+
+## How to use this documentation
+
+Start with the project overview for context, then follow the getting-started
+instructions to set up the project. The user guide describes common workflows;
+the architecture, verification, and development chapters provide details for
+maintainers and contributors.
+
+## Documentation status
+
+- **Maintainer:** [TODO: name or team]
+- **Last reviewed:** [TODO: date]
+- **Status:** [TODO: draft, active, or archived]

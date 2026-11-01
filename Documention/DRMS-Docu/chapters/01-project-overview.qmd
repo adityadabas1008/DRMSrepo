@@ -1,0 +1,26 @@
+# Project Overview
+
+## Purpose
+
+[TODO: Explain the problem this project addresses and why it exists.]
+
+## Goals and scope
+
+### Goals
+
+- [TODO: State a concrete project goal.]
+
+### Out of scope
+
+- [TODO: Describe what this project intentionally does not cover.]
+
+## Intended audience
+
+[TODO: Identify readers, such as users, operators, developers, or reviewers.]
+
+## Terminology
+
+| Term | Definition |
+|---|---|
+| DRMS | [TODO: Expand the project name and define it.] |
+
