@@ -9,6 +9,6 @@ The contributors of this Project are:
    
  who are Students at the **Hochschule Bremen** studying **Electronics Engineering (M.Sc.)**.
 
- Mentor: *Prof. Dr. Mirco Meiners*
+ Mentor: *Prof. Dr. Ing. Mirco Meiners*
 
 The work on this project is being done and this repo is will contain the whole project including the implementation as well as the final report.
